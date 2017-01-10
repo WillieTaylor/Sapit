@@ -1,0 +1,6 @@
+mkdir dir$argv[1]
+cat $argv[1].fssp | sed 's/://' | sed 's/ [1-9][a-z]../&-' | sed 's/- /  /' > dir$argv[1]/$argv[1].fssp
+cd dir$argv[1]
+ln -s .. home
+ln -s ../../util
+mkdir pdb

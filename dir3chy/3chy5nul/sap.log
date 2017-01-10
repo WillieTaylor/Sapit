@@ -1,0 +1,139 @@
+ file1 = 3chy
+ prot1->Compound = CHE*Y                                                       
+ file2 = 5nul
+ prot2->Compound = MOL_ID: 1; MOLECULE: FLAVODOXIN; CHAIN: NULL; ENGINEERED: YE
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Cycle 1, 16 residues selected
+Cycle 2, 23 residues selected
+Cycle 3, 29 residues selected
+Cycle 4, 36 residues selected
+Cycle 5, 43 residues selected
+
+ score = 1534.095337
+
+Percent sel on aln =   86.05
+Percent aln in sel =   34.91
+ *M    1 135.9   7 F* 
+**K    2 103.2   8 L**
+**I    3  94.9   9 V**
+**V    4  99.3  10 V* 
+**Y    5  29.5  11 D**
+**W    6  21.4  12 D* 
+**T   12   0.0  13 F  
+ *E   13  27.6  14 S  
+ *K   14  32.5  15 T  
+**M   15  48.7  16 M  
+**A   16  52.2  17 R**
+  E   17  41.1  18 R  
+ *L   18  32.8  19 I  
+**I   19  68.4  20 V* 
+ *A   20  60.7  21 R* 
+  K   21  42.7  22 N  
+**G   22  53.0  23 L* 
+**I   23  61.5  24 L* 
+ *I   24  42.6  25 K* 
+  E   25  35.4  26 E  
+ *S   26  44.7  27 L* 
+  G   27  28.8  28 G* 
+ *K   28   6.2  29 F* 
+  D   29   0.2  30 N* 
+ *V   30  13.5  32 V* 
+ *N   31  76.3  33 E* 
+ *T   32  84.1  34 E* 
+ *I   33  75.4  35 A* 
+  N   34  79.6  36 E* 
+**V   35   2.2  37 D**
+  S   36   6.6  39 V* 
+  D   37   6.6  40 D  
+**V   38   5.3  41 A**
+ *N   39   0.6  42 L* 
+ *I   40   0.4  44 K* 
+  D   41   0.2  45 L* 
+  E   42   0.2  46 Q  
+**L   43   0.3  47 A  
+**L   44  16.4  48 G* 
+ *N   45   8.4  49 G  
+ *E   46  15.6  50 Y**
+  D   47 107.9  51 G* 
+ *I   48 117.8  52 F**
+**L   49 134.5  53 V**
+ *I   50 138.8  54 I* 
+ *L   51 105.3  55 S**
+ *G   52  25.0  56 D* 
+ *A   55   1.0  57 W* 
+ *M   56   0.9  58 N  
+ *E   65   2.1  59 M* 
+**F   66   0.1  60 P  
+ *E   67   0.1  61 N  
+ *P   68   1.0  62 M* 
+ *F   69   0.1  63 D* 
+ *I   70   2.8  64 G**
+  E   71   1.1  65 L* 
+  E   72   0.8  66 E  
+**I   73   1.8  67 L**
+ *S   74   1.0  68 L**
+  T   75  10.7  75 G  
+  K   76  13.2  76 A  
+**I   77   9.6  77 M* 
+ *S   78   2.4  78 S**
+  G   79  57.8  79 A  
+ *K   80  64.7  80 L* 
+ *K   81  73.2  81 P**
+**V   82 122.2  82 V**
+**A   83 143.6  83 L* 
+**L   84 149.3  84 M**
+**F   85  16.5  85 V* 
+**G   86   5.9  86 T**
+**S   87  20.8  87 A  
+  W   90   2.8  88 E* 
+ *G   91   0.0  89 A  
+  D   92   0.1  90 K* 
+ *G   93   0.0  91 K  
+  K   94   4.9  92 E  
+**W   95   3.7  93 N  
+**M   96   2.7  94 I* 
+  R   97   6.0  95 I* 
+ *D   98   5.1  96 A* 
+ *F   99   4.9  97 A**
+ *E  100   7.4  98 A* 
+  E  101   7.3  99 Q  
+  R  102   8.4 100 A* 
+ *V  109   6.8 101 G* 
+ *V  110   9.9 102 A**
+  V  111  76.4 103 S* 
+ *E  112  10.8 104 G* 
+**P  114  19.3 105 Y* 
+ *L  115  77.2 106 V* 
+ *I  116  13.1 107 V* 
+ *E  125   3.0 108 K**
+  Q  126   5.3 109 P  
+ *D  127   0.0 110 F* 
+ *C  128   1.5 111 T* 
+**I  129   7.2 112 A* 
+  E  130   6.1 113 A  
+ *F  131   7.2 114 T  
+**G  132   7.5 115 L* 
+ *K  133   6.0 116 E* 
+ *K  134   6.2 117 E  
+ *I  135   6.3 118 K* 
+**A  136   6.7 119 L  
+  N  137   5.4 120 N  
+  I  138   0.0 121 K  
+5nul Weighted RMSd =   2.010 over 106 atoms 64.157372 3221.653320  10.4 69.480435 70.093903 75.893726 80.314967
+5nul Un-weighted RMSd =   1.573 over best 37 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   2.118 over best 45 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   2.742 over best 57 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.120 over best 76 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.222 over best 81 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.474 over best 86 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.722 over best 93 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.737 over best 95 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.773 over best 98 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.844 over best 102 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.841 over best 103 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.834 over best 104 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.852 over best 105 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.853 over best 106 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.853 over best 106 atoms ( 3221.653320   10.4 )
+5nul Un-weighted RMSd =   3.853 over all 106 matched atoms 64.157372 3221.653320   10.4 69.480438 70.093903 75.893723 80.314964
